@@ -1,0 +1,79 @@
+[
+    
+        {
+            "id":0,
+            "name":"About Iloilo",
+            "icon":"ion-heart",
+            "subpageBanner": "img/iloilo-page-bg.jpg",
+            "subdetails":[
+                        {
+                            "subname":"ken",
+                            "subid":"rox"
+                        }
+                        ]
+        },
+    
+        {
+            "id":1,
+            "name":"Attractions",
+            "icon":"ion-images",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+        },
+        {
+            "id":2,
+            "name":"Events",
+            "icon":"ion-android-calendar",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+            
+        },
+        {
+            "id":3,
+            "name":"Activities",
+            "icon":"ion-android-bicycle",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+            
+        },
+        {
+            "id":4,
+            "name":"Foods",
+            "icon":"ion-android-restaurant",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+            
+        },
+         {
+            "id":5,
+            "name":"Directory",
+            "icon":"ion-ios-bookmarks",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+             "subdetail":""
+            
+        },
+         {
+            "id":6,
+            "name":"illongo-101",
+            "icon":"ion-chatbubble-working",
+            "subpageBanner": "img/attractions-page-bg.jpg"
+            
+        },
+        {
+            "id":7,
+            "name":"Maps",
+            "icon":"ion-ios-location",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+            "subdetail":""
+            
+        },
+         {
+            "id":8,
+            "name":"Contact",
+            "icon":"ion-ios-pulse",
+            "subpageBanner": "img/attractions-page-bg.jpg",
+             "subdetail":""
+            
+        }
+   
+]
